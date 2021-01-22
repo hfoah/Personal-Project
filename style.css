@@ -1,0 +1,32 @@
+body{
+    font-family: Helvetica, sans-serif;
+    background-color: aquamarine;
+    padding: 10px;
+    font-size: medium;
+}
+h2{
+    font-size: x-large;
+    text-align: center;
+}
+#details{
+    text-align: left;
+}
+.form1{
+    display: block;
+    padding-bottom: 20px;
+}
+.form2{
+    display: inline-block;
+    text-align: left;
+    width: 44%;
+}
+
+.form3{
+    display: inline-block;
+    text-align: right;
+    width: 54%;
+}
+
+
+
+
